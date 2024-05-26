@@ -1,6 +1,6 @@
 # Splendor-Hotel-Bookings
 
-## Projecct Overview
+## Project Overview
 The aim of this project is to analyse the data, identify booking trends and factors to gain insights into guest preferences,
 
 booking trends, and other key factors that impact the hotel's operations, as well as answer specific questions about the dataset.
